@@ -4,6 +4,5 @@
 
 layout: home
 ---
-# Andy Action Fulfillment
 
 ## Boutique Inventory and Fulfillment Handling
